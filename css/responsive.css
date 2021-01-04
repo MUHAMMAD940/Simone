@@ -393,7 +393,7 @@
     }
 
     .scroll_down {
-        bottom: -2vh;
+        display: none;
     }
 
     /*--**========== Banner part end==========**--*/
